@@ -14,17 +14,10 @@
          
 
 <maven.compiler.source>8</maven.compiler.source>
-
 <maven.compiler.target>8</maven.compiler.target>
-
 <failOnMissingWebXml>false</failOnMissingWebXml>
-
-<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-         
-         
 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 <junit.version>5.9.2</junit.version>
-
   <sonar.organization>raia-ishtayeh</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
