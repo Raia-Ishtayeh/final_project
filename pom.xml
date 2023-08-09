@@ -14,9 +14,8 @@
 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 <junit.version>5.9.2</junit.version>
 
-  <sonar.organization>Raia-Ishtayeh</sonar.organization>
+  <sonar.organization>raia-ishtayeh</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-
 </properties>
 
     <dependencies>
